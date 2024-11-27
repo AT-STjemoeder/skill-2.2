@@ -4,6 +4,7 @@
 - geef hier de namen van de teamleden
 - Lucas Kokken
 - Mo Kharboutli
+- Seline Nijmeijer
 
 ## eindproduct
 - type hier een link naar de live-view van het eindproduct op ma-cloud
